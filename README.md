@@ -8,5 +8,3 @@ I am Doğan from Turkey 🇹🇷 and I do content on **front-end web development
 - HTML/SASS
 - Vanilla JS
 - React.js
-
-[![Doğan's github stats](https://github-readme-stats.vercel.app/api?username=doganozgur)](https://github.com/anuraghazra/github-readme-stats)
